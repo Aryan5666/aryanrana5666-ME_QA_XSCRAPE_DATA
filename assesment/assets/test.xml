@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45">
+<file name="C:\Users\HP\OneDrive\Desktop\Java selenium project\Scrapper2.0\aryanrana5666-ME_QA_XSCRAPE_DATA\src\test\java\demo\TestCases.java">
+<error line="76" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+</file>
+<file name="C:\Users\HP\OneDrive\Desktop\Java selenium project\Scrapper2.0\aryanrana5666-ME_QA_XSCRAPE_DATA\src\test\java\demo\Utilities.java">
+<error line="24" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="31" severity="error" message="USED_WAIT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="61" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="63" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="66" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="76" severity="error" message="USED_SOPL" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+</file>
+<file name="C:\Users\HP\OneDrive\Desktop\Java selenium project\Scrapper2.0\aryanrana5666-ME_QA_XSCRAPE_DATA\src\test\java\demo\wrappers\SeleniumWrapper.java">
+<error line="25" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="39" severity="error" message="USED_THREAD_SLEEP" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+</file>
+</checkstyle>

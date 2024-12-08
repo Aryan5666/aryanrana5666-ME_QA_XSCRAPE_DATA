@@ -1,0 +1,16 @@
+{
+    "actions": [
+        {
+            "COMMAND": null,
+            "RESPONSE": null
+        },
+        {
+            "COMMAND": "[1733671384.729][INFO]: [eeb3cacb07635235f661df510d4c1d39] COMMAND InitSession {\n   \"capabilities\": {\n      \"firstMatch\": [ {\n         \"browserName\": \"chrome\",\n         \"goog:chromeOptions\": {\n            \"args\": [ \"--remote-allow-origins=*\" ],\n            \"binary\": \"C:\\\\Program Files\\\\Google\\\\Chrome\\\\Application\\\\chrome.exe\",\n            \"extensions\": [  ]\n         },\n         \"goog:loggingPrefs\": {\n            \"browser\": \"ALL\",\n            \"driver\": \"ALL\"\n         }\n      } ]\n   }\n}\n",
+            "RESPONSE": "[1733671385.576][INFO]: [eeb3cacb07635235f661df510d4c1d39] RESPONSE InitSession {\n   \"capabilities\": {\n      \"acceptInsecureCerts\": false,\n      \"browserName\": \"chrome\",\n      \"browserVersion\": \"131.0.6778.109\",\n      \"chrome\": {\n         \"chromedriverVersion\": \"131.0.6778.87 (ce31cae9487357cfd3bd62984ed5250121a71a23-refs/branch-heads/6778@{#2287})\",\n         \"userDataDir\": \"C:\\\\Users\\\\HP\\\\AppData\\\\Local\\\\Temp\\\\scoped_dir16116_831579631\"\n      },\n      \"fedcm:accounts\": true,\n      \"goog:chromeOptions\": {\n         \"debuggerAddress\": \"localhost:59066\"\n      },\n      \"networkConnectionEnabled\": false,\n      \"pageLoadStrategy\": \"normal\",\n      \"platformName\": \"windows\",\n      \"proxy\": {\n      },\n      \"setWindowRect\": true,\n      \"strictFileInteractability\": false,\n      \"timeouts\": {\n         \"implicit\": 0,\n         \"pageLoad\": 300000,\n         \"script\": 30000\n      },\n      \"unhandledPromptBehavior\": \"dismiss and notify\",\n      \"webauthn:extension:credBlob\": true,\n      \"webauthn:extension:largeBlob\": true,\n      \"webauthn:extension:minPinLength\": true,\n      \"webauthn:extension:prf\": true,\n      \"webauthn:virtualAuthenticators\": true\n   },\n   \"sessionId\": \"eeb3cacb07635235f661df510d4c1d39\"\n}\n"
+        },
+        {
+            "COMMAND": "[1733671385.755][INFO]: [eeb3cacb07635235f661df510d4c1d39] COMMAND MaximizeWindow {\n}\n",
+            "RESPONSE": "[1733671385.799][INFO]: [eeb3cacb07635235f661df510d4c1d39] RESPONSE MaximizeWindow {\n   \"height\": 832,\n   \"width\": 1552,\n   \"x\": -8,\n   \"y\": -8\n}\n"
+        }
+    ]
+}
